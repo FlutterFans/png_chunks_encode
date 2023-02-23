@@ -2,7 +2,7 @@
 
 [![pub package](https://img.shields.io/pub/v/png_chunks_encode.svg)](https://pub.dev/packages/png_chunks_encode)
 
-Dart port of [png_chunk_text](https://github.com/hughsk/png-chunks-encode).
+Dart port of [png-chunks-encode](https://github.com/hughsk/png-chunks-encode).
 
 ## Features
 
